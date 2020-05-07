@@ -23,6 +23,8 @@ void ReadInput(int& flights, int& crews, std::vector<std::vector<int>>& availabi
     }
 }
 
+
+
 int main()
 {
     std::cout << "Hello World!\n";
