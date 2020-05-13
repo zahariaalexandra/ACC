@@ -1,7 +1,7 @@
-﻿  ConsoleApplication1.cpp
-D:\Facultate\ACC\ACC-tema2\ConsoleApplication1\ConsoleApplication1.cpp(41,31): warning C4018: '<': signed/unsigned mismatch
-D:\Facultate\ACC\ACC-tema2\ConsoleApplication1\ConsoleApplication1.cpp(52,31): warning C4018: '<': signed/unsigned mismatch
-D:\Facultate\ACC\ACC-tema2\ConsoleApplication1\ConsoleApplication1.cpp(67,35): warning C4018: '<': signed/unsigned mismatch
-D:\Facultate\ACC\ACC-tema2\ConsoleApplication1\ConsoleApplication1.cpp(79,31): warning C4018: '<': signed/unsigned mismatch
-D:\Facultate\ACC\ACC-tema2\ConsoleApplication1\ConsoleApplication1.cpp(94,31): warning C4018: '<': signed/unsigned mismatch
+﻿  Program.cpp
+D:\Facultate\ACC\ACC-tema2\ConsoleApplication1\Program.cpp(41,31): warning C4018: '<': signed/unsigned mismatch
+D:\Facultate\ACC\ACC-tema2\ConsoleApplication1\Program.cpp(52,31): warning C4018: '<': signed/unsigned mismatch
+D:\Facultate\ACC\ACC-tema2\ConsoleApplication1\Program.cpp(67,35): warning C4018: '<': signed/unsigned mismatch
+D:\Facultate\ACC\ACC-tema2\ConsoleApplication1\Program.cpp(79,31): warning C4018: '<': signed/unsigned mismatch
+D:\Facultate\ACC\ACC-tema2\ConsoleApplication1\Program.cpp(94,31): warning C4018: '<': signed/unsigned mismatch
   ConsoleApplication1.vcxproj -> D:\Facultate\ACC\ACC-tema2\Debug\ConsoleApplication1.exe
