@@ -39,9 +39,9 @@ void Graph::setStartNode(int startNode)
 	this->startNode = startNode;
 }
 
-void Graph::ReadGraph()
+void Graph::ReadGraph(std::string fileName)
 {
-	std::ifstream fin("Input.txt");
+	std::ifstream fin(fileName);
 
 	fin >> nodes;
 	fin >> startNode;

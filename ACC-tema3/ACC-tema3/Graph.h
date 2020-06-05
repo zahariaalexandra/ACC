@@ -19,7 +19,7 @@ public:
 	int getStartNode();
 	void setStartNode(int startNode);
 
-	void ReadGraph();
+	void ReadGraph(std::string fileName);
 	void GeneratePermutations(std::vector<int>& minPermutations, int& minTime);
 	void ShowPermutation(std::vector<int> permutation, int time);
 };

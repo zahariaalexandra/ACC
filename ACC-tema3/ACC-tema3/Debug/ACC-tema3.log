@@ -1,4 +1,3 @@
-﻿  Graph.cpp
-D:\Facultate\ACC\ACC-tema3\ACC-tema3\Graph.cpp(88,30): warning C4018: '<': signed/unsigned mismatch
-D:\Facultate\ACC\ACC-tema3\ACC-tema3\Graph.cpp(115,28): warning C4018: '<': signed/unsigned mismatch
+﻿  ACC-tema3.cpp
+D:\Facultate\ACC\ACC-tema3\ACC-tema3\ACC-tema3.cpp(12,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
   ACC-tema3.vcxproj -> D:\Facultate\ACC\ACC-tema3\Debug\ACC-tema3.exe
